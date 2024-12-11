@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Design**
 
-- 🌱 I’m currently learning **I am currently focused on web design, frameworks, modern JavaScript, and back-end development as part of my software development studies. I aim to strengthen my skills in creating responsive and user-friendly websites, working with popular frameworks, and developing efficient server-side functionalities. My goal is to build robust, dynamic, and scalable web applications that meet user needs.**
+- 🌱 I am currently focused on web design, frameworks, modern JavaScript, and back-end development as part of my software development studies. I aim to strengthen my skills in creating responsive and user-friendly websites, working with popular frameworks, and developing efficient server-side functionalities. My goal is to build robust, dynamic, and scalable web applications that meet user needs.**
 
 - 📫 How to reach me **kharelpawan1@gmail.com**
 
